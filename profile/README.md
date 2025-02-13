@@ -58,7 +58,7 @@ Cloude Labs is an **open-source, community-driven project**. Whether you're a DA
 🔬 **Researchers** – Advance AI-driven governance methodologies.  
 🌍 **DAO Operators & Community Members** – Test DAOGENT in your DAO and provide feedback.  
 
-[👉 **Join our GitHub and start building.**](#)  
+[👉 **Join our GitHub and start building.**](https://github.com/Cloude-Labs)  
 
 ---
 
@@ -66,7 +66,6 @@ Cloude Labs is an **open-source, community-driven project**. Whether you're a DA
 
 🌐 **Website:** [CloudeLabs.io](#)  
 🐦 **Twitter:** [@CloudeLabs](#)  
-💬 **Discord:** [Join our community](#)  
 
 **Smarter DAOs. Stronger Communities.**  
 🚀 *The future of decentralized governance is here.*  
