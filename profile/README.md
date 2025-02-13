@@ -1,4 +1,5 @@
 # Cloude Labs: AI-Powered Governance for Decentralized Communities  
+![Cloude Labs Banner](https://github.com/Cloude-Labs/.github/blob/28269ccef50d47e52f4a94d74db6d78efe8ede7f/cloude_labs_twitter_banner_final.png)
 
 ## 🌐 Reinventing DAOs with Intelligent Automation  
 
